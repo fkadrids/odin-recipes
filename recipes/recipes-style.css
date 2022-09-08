@@ -2,6 +2,7 @@ body{
   text-align: center;
   background-color: rgb(242, 252, 255);
   font-family: 'Courier New', Courier, monospace;
+  padding: 20px;
   
 }
 img {
@@ -16,6 +17,9 @@ img {
 }
 ul{
   list-style: none;
+  padding: 0;
+  margin: 0;
+
 }
 ol{
   text-align: justify;
