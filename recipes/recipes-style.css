@@ -3,14 +3,21 @@ body{
   background-color: rgb(242, 252, 255);
   font-family: 'Courier New', Courier, monospace;
 }
-.title{
-  font-size: 100px;
+img {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  object-position: 59% 50%;
 }
-.links{
-  font-size: 30px;
-  display:inline-block;
+.description{
+  background-color: rgb(255, 217, 223);
+  text-align: justify;
+}
+ul{
   list-style: none;
-  color: lightpink;
+}
+ol{
+  text-align: justify;
 }
 a:visited{
   color: rgb(238, 171, 181);
