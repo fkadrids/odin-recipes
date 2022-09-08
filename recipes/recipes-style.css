@@ -2,6 +2,7 @@ body{
   text-align: center;
   background-color: rgb(242, 252, 255);
   font-family: 'Courier New', Courier, monospace;
+  
 }
 img {
   height: 300px;
@@ -27,4 +28,17 @@ a:link{
 }
 a:hover{
   color: rgb(220, 162, 191);
+}
+
+@media (max-width: 480px) {
+  body {
+    margin: 20px;
+    
+  }
+  img {
+    height: 270px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 59% 50%;
+  }
 }
