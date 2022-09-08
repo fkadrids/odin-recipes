@@ -35,8 +35,8 @@ a:hover{
 
 @media (max-width: 480px) {
   body {
-    margin: 10px;
-    
+    margin: 0px;
+    margin-bottom: 10px;
   }
   img {
     height: 270px;
@@ -48,6 +48,8 @@ a:hover{
     list-style: none;
     padding: 0;
     margin: 0;
+    font-size: 13px;
+    line-height: 25px;
   }
   ol{
     text-align: justify;
