@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background-color: rgb(242, 252, 255);
+}
+.title{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 100px;
+}
+.links{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  display:inline-block;
+  list-style: none;
+  color: lightpink;
+}
+a:visited{
+  color: rgb(238, 171, 181);
+}
+a:link{
+  color: rgb(238, 171, 181);
+}
+a:hover{
+  color: rgb(220, 162, 191);
+}
