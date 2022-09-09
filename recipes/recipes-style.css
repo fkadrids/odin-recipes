@@ -1,3 +1,5 @@
+
+
 body{
   text-align: center;
   background-color: rgb(242, 252, 255);
@@ -48,8 +50,10 @@ a:hover{
     list-style: none;
     padding: 0;
     margin: 0;
-    font-size: 13px;
+    font-size: 14px;
     line-height: 25px;
+    margin-left: -10px;
+    margin-right: -10px;
   }
   ol{
     text-align: justify;
